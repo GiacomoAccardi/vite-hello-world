@@ -1,7 +1,4 @@
 <script>
-export default {
-    name: "Titolo app",
-};
 </script>
 
 <template>
